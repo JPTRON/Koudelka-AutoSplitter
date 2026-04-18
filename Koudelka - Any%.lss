@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Koudelka</GameName>
+  <CategoryName>Any%</CategoryName>
+  <LayoutPath>C:\Users\joaopf\Desktop\LiveSplit_1.8.20\splits\Koudelka - Any%.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PlayStation</Platform>
+    <Region>USA / NTSC</Region>
+    <Variables>
+      <Variable name="Any%">US</Variable>
+    </Variables>
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/30/2020 03:03:11" isStartedSynced="True" ended="09/30/2020 05:19:33" isEndedSynced="True">
+      <PauseTime>00:03:50.6830000</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="09/30/2020 05:20:23" isStartedSynced="True" ended="09/30/2020 07:36:54" isEndedSynced="True">
+      <PauseTime>00:01:39.3430000</PauseTime>
+    </Attempt>
+    <Attempt id="3" started="09/30/2020 07:37:29" isStartedSynced="True" ended="09/30/2020 10:03:45" isEndedSynced="True">
+      <RealTime>02:26:15.8550000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="07/14/2021 08:15:54" isStartedSynced="True" ended="07/14/2021 08:17:47" isEndedSynced="True" />
+    <Attempt id="5" started="07/23/2021 05:53:14" isStartedSynced="True" ended="07/23/2021 06:05:39" isEndedSynced="True">
+      <PauseTime>00:05:47.0910000</PauseTime>
+    </Attempt>
+    <Attempt id="6" started="07/26/2021 23:38:01" isStartedSynced="True" ended="07/26/2021 23:40:38" isEndedSynced="True" />
+    <Attempt id="7" started="07/26/2021 23:51:20" isStartedSynced="True" ended="07/27/2021 00:01:23" isEndedSynced="True" />
+    <Attempt id="8" started="07/27/2021 00:04:00" isStartedSynced="True" ended="07/27/2021 00:10:38" isEndedSynced="True" />
+    <Attempt id="9" started="07/27/2021 00:11:18" isStartedSynced="True" ended="07/27/2021 03:41:00" isEndedSynced="True">
+      <RealTime>03:29:42.2100000</RealTime>
+    </Attempt>
+    <Attempt id="10" started="07/28/2021 22:24:23" isStartedSynced="True" ended="07/29/2021 01:18:09" isEndedSynced="True">
+      <RealTime>02:53:46.0450000</RealTime>
+    </Attempt>
+    <Attempt id="11" started="07/29/2021 01:32:54" isStartedSynced="True" ended="07/29/2021 01:36:42" isEndedSynced="True" />
+    <Attempt id="12" started="07/29/2021 01:37:44" isStartedSynced="True" ended="07/29/2021 04:06:59" isEndedSynced="True" />
+    <Attempt id="13" started="08/02/2021 21:53:03" isStartedSynced="False" ended="08/02/2021 21:53:05" isEndedSynced="False" />
+    <Attempt id="14" started="08/02/2021 22:21:17" isStartedSynced="True" ended="08/02/2021 22:25:05" isEndedSynced="True" />
+    <Attempt id="15" started="08/02/2021 22:26:12" isStartedSynced="True" ended="08/03/2021 01:03:31" isEndedSynced="True">
+      <RealTime>02:37:19.2160000</RealTime>
+    </Attempt>
+    <Attempt id="16" started="08/03/2021 01:23:12" isStartedSynced="True" ended="08/03/2021 01:27:46" isEndedSynced="True" />
+    <Attempt id="17" started="08/03/2021 01:28:35" isStartedSynced="True" ended="08/03/2021 04:07:10" isEndedSynced="True">
+      <RealTime>02:38:35.7450000</RealTime>
+    </Attempt>
+    <Attempt id="18" started="11/11/2021 04:17:55" isStartedSynced="True" ended="11/11/2021 04:19:41" isEndedSynced="True" />
+    <Attempt id="19" started="11/11/2021 04:21:25" isStartedSynced="True" ended="11/11/2021 05:24:55" isEndedSynced="True" />
+    <Attempt id="20" started="11/12/2021 04:25:09" isStartedSynced="True" ended="11/12/2021 06:32:41" isEndedSynced="True">
+      <RealTime>02:07:32.3190000</RealTime>
+    </Attempt>
+    <Attempt id="21" started="12/02/2021 04:06:21" isStartedSynced="True" ended="12/02/2021 04:09:50" isEndedSynced="True" />
+    <Attempt id="22" started="12/02/2021 04:10:49" isStartedSynced="True" ended="12/02/2021 04:15:21" isEndedSynced="True" />
+    <Attempt id="23" started="12/02/2021 04:15:23" isStartedSynced="True" ended="12/02/2021 04:18:39" isEndedSynced="True" />
+    <Attempt id="24" started="12/02/2021 04:21:35" isStartedSynced="True" ended="12/02/2021 04:24:23" isEndedSynced="True" />
+    <Attempt id="25" started="12/02/2021 04:25:14" isStartedSynced="True" ended="12/02/2021 04:26:23" isEndedSynced="True" />
+    <Attempt id="26" started="12/02/2021 04:27:07" isStartedSynced="True" ended="12/02/2021 04:30:29" isEndedSynced="True" />
+    <Attempt id="27" started="12/02/2021 04:31:28" isStartedSynced="True" ended="12/02/2021 04:34:53" isEndedSynced="True" />
+    <Attempt id="28" started="12/02/2021 04:35:50" isStartedSynced="True" ended="12/02/2021 04:40:38" isEndedSynced="True" />
+    <Attempt id="29" started="12/02/2021 04:41:30" isStartedSynced="True" ended="12/02/2021 05:14:02" isEndedSynced="True" />
+    <Attempt id="30" started="12/09/2021 04:14:06" isStartedSynced="False" ended="12/09/2021 06:16:32" isEndedSynced="True">
+      <RealTime>02:02:26.9280000</RealTime>
+    </Attempt>
+    <Attempt id="31" started="01/18/2022 04:08:43" isStartedSynced="True" ended="01/18/2022 05:49:51" isEndedSynced="True" />
+    <Attempt id="32" started="01/24/2022 21:41:46" isStartedSynced="True" ended="01/24/2022 23:47:34" isEndedSynced="True">
+      <RealTime>02:05:48.6020000</RealTime>
+    </Attempt>
+    <Attempt id="33" started="01/26/2022 04:13:28" isStartedSynced="True" ended="01/26/2022 04:17:14" isEndedSynced="True" />
+    <Attempt id="34" started="01/26/2022 04:17:53" isStartedSynced="True" ended="01/26/2022 04:20:59" isEndedSynced="True" />
+    <Attempt id="35" started="01/26/2022 04:22:02" isStartedSynced="True" ended="01/26/2022 06:12:57" isEndedSynced="True">
+      <RealTime>01:50:54.5180000</RealTime>
+    </Attempt>
+    <Attempt id="36" started="01/26/2022 07:20:43" isStartedSynced="True" ended="01/26/2022 07:24:06" isEndedSynced="True" />
+    <Attempt id="37" started="01/26/2022 07:25:36" isStartedSynced="True" ended="01/26/2022 07:28:53" isEndedSynced="True" />
+    <Attempt id="38" started="01/26/2022 07:33:50" isStartedSynced="True" ended="01/26/2022 07:38:15" isEndedSynced="True" />
+    <Attempt id="39" started="02/08/2022 04:17:22" isStartedSynced="True" ended="02/08/2022 04:36:31" isEndedSynced="True" />
+    <Attempt id="40" started="02/08/2022 04:37:32" isStartedSynced="True" ended="02/08/2022 04:40:35" isEndedSynced="True" />
+    <Attempt id="41" started="02/08/2022 04:41:28" isStartedSynced="True" ended="02/08/2022 05:39:32" isEndedSynced="True" />
+    <Attempt id="42" started="02/26/2022 21:48:03" isStartedSynced="True" ended="02/26/2022 23:41:38" isEndedSynced="True">
+      <RealTime>01:53:35.1770000</RealTime>
+    </Attempt>
+    <Attempt id="43" started="03/17/2022 02:58:43" isStartedSynced="False" ended="03/17/2022 02:58:44" isEndedSynced="False" />
+    <Attempt id="44" started="03/22/2022 03:23:53" isStartedSynced="True" ended="03/22/2022 03:29:10" isEndedSynced="True" />
+    <Attempt id="45" started="03/22/2022 03:31:45" isStartedSynced="True" ended="03/22/2022 03:35:51" isEndedSynced="True" />
+    <Attempt id="46" started="03/22/2022 03:36:09" isStartedSynced="True" ended="03/22/2022 03:52:31" isEndedSynced="True" />
+    <Attempt id="47" started="03/25/2022 02:50:08" isStartedSynced="True" ended="03/25/2022 03:34:17" isEndedSynced="True" />
+    <Attempt id="48" started="03/25/2022 03:35:35" isStartedSynced="True" ended="03/25/2022 03:40:39" isEndedSynced="True" />
+    <Attempt id="49" started="03/25/2022 03:41:36" isStartedSynced="True" ended="03/25/2022 03:44:46" isEndedSynced="True" />
+    <Attempt id="50" started="03/25/2022 03:45:33" isStartedSynced="True" ended="03/25/2022 03:48:43" isEndedSynced="True" />
+    <Attempt id="51" started="03/25/2022 03:49:27" isStartedSynced="True" ended="03/25/2022 03:52:46" isEndedSynced="True" />
+    <Attempt id="52" started="03/25/2022 03:53:42" isStartedSynced="True" ended="03/25/2022 03:56:25" isEndedSynced="True" />
+    <Attempt id="53" started="03/25/2022 03:57:24" isStartedSynced="True" ended="03/25/2022 04:00:16" isEndedSynced="True" />
+    <Attempt id="54" started="03/25/2022 04:00:57" isStartedSynced="True" ended="03/25/2022 04:03:40" isEndedSynced="True" />
+    <Attempt id="55" started="03/25/2022 04:04:22" isStartedSynced="True" ended="03/25/2022 04:07:27" isEndedSynced="True" />
+    <Attempt id="56" started="03/25/2022 04:08:09" isStartedSynced="True" ended="03/25/2022 04:10:53" isEndedSynced="True" />
+    <Attempt id="57" started="03/25/2022 04:13:15" isStartedSynced="True" ended="03/25/2022 06:01:00" isEndedSynced="True">
+      <RealTime>01:47:45.7890000</RealTime>
+    </Attempt>
+    <Attempt id="58" started="03/26/2022 01:25:55" isStartedSynced="True" ended="03/26/2022 01:28:45" isEndedSynced="True" />
+    <Attempt id="59" started="03/26/2022 01:29:41" isStartedSynced="True" ended="03/26/2022 01:32:39" isEndedSynced="True" />
+    <Attempt id="60" started="03/26/2022 01:33:07" isStartedSynced="True" ended="03/26/2022 01:49:08" isEndedSynced="True" />
+    <Attempt id="61" started="03/26/2022 01:49:58" isStartedSynced="True" ended="03/26/2022 01:52:44" isEndedSynced="True" />
+    <Attempt id="62" started="03/26/2022 01:53:24" isStartedSynced="True" ended="03/26/2022 01:56:04" isEndedSynced="True" />
+    <Attempt id="63" started="03/26/2022 17:02:05" isStartedSynced="True" ended="03/26/2022 17:38:25" isEndedSynced="True" />
+    <Attempt id="64" started="03/26/2022 17:40:27" isStartedSynced="True" ended="03/26/2022 17:43:31" isEndedSynced="True" />
+    <Attempt id="65" started="03/26/2022 17:44:56" isStartedSynced="True" ended="03/26/2022 18:11:05" isEndedSynced="True" />
+    <Attempt id="66" started="03/26/2022 18:11:37" isStartedSynced="True" ended="03/26/2022 18:14:43" isEndedSynced="True" />
+    <Attempt id="67" started="04/06/2022 00:57:36" isStartedSynced="True" ended="04/06/2022 01:54:02" isEndedSynced="True" />
+    <Attempt id="68" started="12/02/2023 22:31:29" isStartedSynced="True" ended="12/02/2023 22:31:59" isEndedSynced="True" />
+    <Attempt id="69" started="12/02/2023 22:32:02" isStartedSynced="True" ended="12/02/2023 22:50:23" isEndedSynced="True" />
+    <Attempt id="70" started="12/02/2023 22:55:54" isStartedSynced="True" ended="12/02/2023 23:30:18" isEndedSynced="True">
+      <PauseTime>00:04:31.9537783</PauseTime>
+    </Attempt>
+    <Attempt id="71" started="12/02/2023 23:30:41" isStartedSynced="True" ended="12/03/2023 03:36:41" isEndedSynced="True">
+      <RealTime>04:05:59.1182453</RealTime>
+    </Attempt>
+    <Attempt id="72" started="12/14/2023 21:16:55" isStartedSynced="True" ended="12/14/2023 21:16:56" isEndedSynced="True" />
+    <Attempt id="73" started="12/14/2023 21:17:57" isStartedSynced="True" ended="12/15/2023 00:01:02" isEndedSynced="True">
+      <RealTime>02:43:04.2646297</RealTime>
+    </Attempt>
+    <Attempt id="74" started="04/18/2026 00:38:02" isStartedSynced="True" ended="04/18/2026 00:38:08" isEndedSynced="True" />
+    <Attempt id="75" started="04/18/2026 00:38:22" isStartedSynced="True" ended="04/18/2026 00:42:51" isEndedSynced="True" />
+    <Attempt id="76" started="04/18/2026 00:43:03" isStartedSynced="True" ended="04/18/2026 00:43:32" isEndedSynced="True" />
+    <Attempt id="77" started="04/18/2026 01:06:58" isStartedSynced="True" ended="04/18/2026 01:13:30" isEndedSynced="True" />
+    <Attempt id="78" started="04/18/2026 01:13:56" isStartedSynced="True" ended="04/18/2026 01:19:13" isEndedSynced="True" />
+    <Attempt id="79" started="04/18/2026 01:24:59" isStartedSynced="True" ended="04/18/2026 01:32:31" isEndedSynced="True" />
+    <Attempt id="80" started="04/18/2026 01:32:35" isStartedSynced="True" ended="04/18/2026 01:32:45" isEndedSynced="True" />
+    <Attempt id="81" started="04/18/2026 01:32:58" isStartedSynced="True" ended="04/18/2026 01:40:23" isEndedSynced="True" />
+    <Attempt id="82" started="04/18/2026 01:41:35" isStartedSynced="True" ended="04/18/2026 03:13:22" isEndedSynced="True" />
+    <Attempt id="83" started="04/18/2026 03:14:56" isStartedSynced="True" ended="04/18/2026 04:10:00" isEndedSynced="True" />
+    <Attempt id="84" started="04/18/2026 19:44:15" isStartedSynced="True" ended="04/18/2026 19:44:56" isEndedSynced="True" />
+    <Attempt id="85" started="04/18/2026 19:45:10" isStartedSynced="True" ended="04/18/2026 19:45:15" isEndedSynced="True" />
+    <Attempt id="86" started="04/18/2026 19:46:12" isStartedSynced="True" ended="04/18/2026 21:55:24" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>- Werewolf</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <GameTime>00:00:56.8388343</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Yatevo Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- RGB Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Ghost Bride Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Doppelgangers Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Phantom Pirate Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Madonne Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Evil Tree Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Alias Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Chimera Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Giant Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Charlotte Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Jezebel Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Apostle Boss</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Root Boss 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Root Boss 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Elaine Boss 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- Elaine Boss 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Disc 4 (終わり)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
