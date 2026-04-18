@@ -7,3 +7,9 @@ It splits on every boss fight once the boss's HP reaches 0, besides on the last 
 It also keeps track of the amount of steps until the next random fight is triggered.
 
 This repository also features a default LiveSplit splits and layout with every compatible split and an ASL Var Viewer for the step counter.
+
+Dependencies: 
+- [emu-help](https://github.com/Jujstme/emu-help-v3)
+  - place [this file](https://github.com/Jujstme/emu-help-v3/blob/main/lib%2FLivesplit%2Femu-help-v3) inside the folder "_LiveSplit/Components_"
+- [ASL Var Viewer](https://github.com/hawkerm/LiveSplit.ASLVarViewer)
+  - place the content of [this .zip](https://github.com/hawkerm/LiveSplit.ASLVarViewer/releases/tag/1.1) inside the folder "_LiveSplit/Components_"
