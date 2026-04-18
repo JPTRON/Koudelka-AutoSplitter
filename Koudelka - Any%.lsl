@@ -190,7 +190,7 @@
       <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <ScriptPath>C:\Users\joaopf\Desktop\LiveSplit_1.8.20\splits\Koudelka AutoSplitter3.asl</ScriptPath>
+        <ScriptPath>C:\Users\joaopf\Desktop\LiveSplit_1.8.20\splits\Koudelka AutoSplitter.asl</ScriptPath>
         <Start>True</Start>
         <Reset>True</Reset>
         <Split>True</Split>
